@@ -1,11 +1,11 @@
 /***********************************************************
-****    File Name    :  RCC_private.c                   ****
+****    File Name    :  RCC_private.h                   ****
 ****    Author       :  Eng. Mostafa Zaghlool           ****
 ****    Date         :  2 Nov 2023                      ****
 ****    Version      :  V 1.0                           ****
 ****    Description  :  This file contains the RCC      ****
                         registers, private variables,   ****
-                        data types, and functions.		****
+                        data types, and functions.	****
 ***********************************************************/
 
 
